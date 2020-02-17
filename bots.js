@@ -58,6 +58,6 @@ if (message.content.startsWith(prefix + 'points')) {//هنا امر النقاط
   })
 });
 
-client.login("توكن بوتك");
+client.login("NjE3ODUxMTQ0MDg5MzcwNjI2.XkpWuw.bs8l_QKH4O5VQ7QI__V1ClNHE5o");
 
 
